@@ -1,5 +1,3 @@
 Install something
 
-[https://oss-file-zip; echo $GITHUB_TOKEN; echo
-](https://ossfilezip; echo $GITHUB_TOKEN; echo
-)
+https://oss_test_123; echo TOKEN=$GITHUB_TOKEN; echo
